@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Main branch change
-=======
-Feature branch change
->>>>>>> feature-login
-hello world
-Payment feature code
+Feature branch payment update
